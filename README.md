@@ -71,13 +71,13 @@ Team Size: 4 Members
 
 👩‍💼 Team Leader:
 
-Chadalawada Mahalakshmi
+Battula Akhila
 
 👩‍💻 Team Members:
 
 Balireddy Raghava Priya
 
-Battula Akhila
+Chadalawada Mahalakshmi
 
 Bandla Nikhitha
 
