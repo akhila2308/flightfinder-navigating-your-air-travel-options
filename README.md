@@ -30,7 +30,7 @@ Flight Finder ✈️ is designed to simplify flight bookings by offering real-ti
 
 1. **Clone the repository**
 
-git clone https://github.com/PriyaBalireddy/flightfinder-navigating-your-air-travel-options
+git clone (https://github.com/akhila2308/flightfinder-navigating-your-air-travel-options/tree/main)
 
 cd SkyDreams---Flight-Finder
 
